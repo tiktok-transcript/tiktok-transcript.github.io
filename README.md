@@ -8,4 +8,5 @@ Paste a TikTok link and get a clean, timestamped transcript you can copy, edit o
 Available in: English, Español, Português, Deutsch, Français, Italiano, 日本語, 한국어, 中文, Русский, Bahasa Indonesia, Türkçe, Tiếng Việt
 
 
+
 _Last reviewed: 2026-09-22_
